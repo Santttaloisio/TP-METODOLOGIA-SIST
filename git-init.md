@@ -3,6 +3,7 @@
 ### El comando git init sirve para iniciar un repositorio git dentro de una carpeta, ya que transforma una carpeta comun en una carpeta que Git puede empezar a reconocer y controlar.
 
 ### Cuando ejecutamos este comando git crea una carpeta oculta llamada .git y ahi se guarda la informacion interna del repositorio, como la configuración, las ramas y el historial de cambios.
+## La carpeta .git no suele modificarse manualmente, porque contiene informacion interna que git necesita para manejar el repositorio, explorarla puede darnos un pantallazo de la organizacion de toda la informacion de los commits y ramas (como vimos en la documentacion/guias que subieron desde la cátedra) pero en la practica para trabajarno es conveniente tocarla.
 
 ### Por ejemplo podríamos crear una carpeta para un proyecto y después iniciar git dentro de ella con estos comandos (windows):
 

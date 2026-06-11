@@ -14,8 +14,14 @@ Tambien se incluyeron explicaciones de distintos comandos de git abordados duran
 - Todo esto evita que todos modifiquen directamente lo mismo sin contro, en lugar de eso cada integrante puede trabajar en una parte, hacer commits con sus cambios y despues pedir que otro revise antes de unirlo al repositorio principal.
 
 ## Enlaces a los archivos del trabajo 
-- [Introduccion a git](git-introduccion.md) 
-- [Configuracion de git](git-config.md) 
+- [Comando git add](git-add.md) 
+- [Comando git branch](git-branch.md) 
+- [Comando git commit](git-commit.md) 
+- [Comando git config](git-config.md) 
 - [Comando git init](git-init.md) 
 - [Comando git log](git-log.md) 
-- [Comando git merge](git-merge.md)
+- [Comando git merge](git-merge.md) 
+- [Comando git rebase](git-rebase.md) 
+- [Comando git revert](git-revert.md) 
+- [Comando git status](git-status.md) 
+- [Comando git switch](git-switch.md)

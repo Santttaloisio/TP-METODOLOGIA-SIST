@@ -1,4 +1,10 @@
-# Introducción a Git
+# Introducción al trabajo de Git
+
+### Este repositorio corresponde al trabajo practico de git de la materia Metodología de Sistemas I. 
+El objetivo del trabajo es aplicar el uso de git en un proyecto grupal, organizando el contenido mediante archivos markdown y utilizando buenas prácticas. Para realizar el trabajo se utilizaron ramas independientes, commits descriptivos, pull requests, revisiones entre integrantes y merges hacia la rama principal. 
+Tambien se incluyeron explicaciones de distintos comandos de git abordados durante la cursada.
+
+## ¿Qué es git?
 
 - Git es un sistema de control de versiones (es distribuido y de codigo abierto, podemos instalarlo de forma local y se puede participar del proyecto contibuyendo).
 - Su funcion principal es registrar los cambios realizados sobre archivos de un proyecto (con tener una carpeta raiz, instalarlo y comenzar a trabajar con archivos ya comienza a cumplir su funcion).

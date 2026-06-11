@@ -7,3 +7,9 @@
 - Este sistema nos ayuda a trabajar de forma mas ordenada ya que queda registro de cada cambio con su autor, como tambien comparar versiones, probar cosas en ramas separadas y despues unir cambios en el proyecto principal.
 - Todo esto evita que todos modifiquen directamente lo mismo sin contro, en lugar de eso cada integrante puede trabajar en una parte, hacer commits con sus cambios y despues pedir que otro revise antes de unirlo al repositorio principal.
 
+## Enlaces a los archivos del trabajo 
+- [Introduccion a git](git-introduccion.md) 
+- [Configuracion de git](git-config.md) 
+- [Comando git init](git-init.md) 
+- [Comando git log](git-log.md) 
+- [Comando git merge](git-merge.md)
